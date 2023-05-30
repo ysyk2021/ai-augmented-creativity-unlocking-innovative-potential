@@ -10,4 +10,4 @@ As AI continues to evolve and become more integrated into creative decision-maki
 
 By exploring the potential of AI to augment creativity, we can unlock new possibilities for innovation and collaboration while also promoting responsible and ethical use of these technologies. This book aims to provide a comprehensive overview of AI-augmented creativity and its implications for the future of creative problem-solving and innovation.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
