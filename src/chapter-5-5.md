@@ -1,5 +1,3 @@
-Creative Problem Solving and Innovation
-==========================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize the way we approach problem-solving and innovation. By incorporating AI-based tools and algorithms into creative decision-making processes, companies can leverage the power of data-driven insights while also promoting collaboration, diversity, and creativity. In this chapter, we will explore AI-augmented creativity techniques and strategies for creative problem solving and innovation.
 

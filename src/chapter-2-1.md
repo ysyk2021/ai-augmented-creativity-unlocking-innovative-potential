@@ -1,5 +1,3 @@
-Overview of Creativity
-================================================
 
 Creativity is a fundamental part of the human experience, driving innovation and problem-solving across all aspects of society. The use of artificial intelligence (AI) in creativity has the potential to revolutionize the way we approach creative problem-solving and innovation.
 

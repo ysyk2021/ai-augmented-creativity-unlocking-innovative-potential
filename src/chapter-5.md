@@ -1,5 +1,3 @@
-AI-Augmented Creativity Techniques and Strategies
-=================================================
 
 AI-augmented creativity involves using artificial intelligence (AI) to enhance and augment traditional approaches to creativity. By incorporating AI-based tools and algorithms into creative decision-making processes, companies can leverage the power of data-driven insights while also promoting collaboration, diversity, and creativity. In this chapter, we will explore various AI-augmented creativity techniques and strategies.
 

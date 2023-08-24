@@ -1,5 +1,3 @@
-Artificial Intelligence in Creativity
-=====================================
 
 Artificial intelligence (AI) has the potential to revolutionize creativity by providing new ways of generating insights, identifying patterns, and solving problems. In this chapter, we will explore the types of AI and their applications in creativity, as well as the advantages and limitations of AI in creativity.
 

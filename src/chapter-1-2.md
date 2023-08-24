@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Applications in Creativity
-====================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize the way we approach creativity by providing new techniques and strategies to enhance and augment traditional approaches. AI is a field of computer science that involves developing algorithms and systems that can learn, reason, and perform tasks that typically require human intelligence, such as perception, reasoning, and decision-making. In this chapter, we will provide an overview of AI and its applications in creativity.
 

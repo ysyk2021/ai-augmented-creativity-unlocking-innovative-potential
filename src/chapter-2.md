@@ -1,5 +1,3 @@
-Understanding Creativity
-========================
 
 Creativity is a complex and multifaceted concept that has been studied across various domains, including psychology, philosophy, and the arts. In this chapter, we will explore an overview of creativity, traditional approaches to creativity, and the limitations and challenges of these approaches.
 

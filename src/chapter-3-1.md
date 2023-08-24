@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Creativity
-============================================================================================================
 
 Artificial intelligence (AI) encompasses various subfields, such as machine learning, natural language processing, computer vision, and robotics. Each type of AI has unique applications in creativity, offering new techniques and strategies to enhance and augment traditional approaches. In this chapter, we will explore the types of artificial intelligence and their applications in creativity.
 

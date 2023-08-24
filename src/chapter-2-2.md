@@ -1,5 +1,3 @@
-Traditional Approaches to Creativity
-==============================================================
 
 Creativity is a fundamental part of human experience, driving innovation and problem-solving across all aspects of society. Traditional approaches to creativity have relied on human expertise, intuition, and experience to generate innovative solutions to complex problems.
 

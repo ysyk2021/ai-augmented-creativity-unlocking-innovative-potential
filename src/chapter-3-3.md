@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Creativity
-==================================================================================
 
 The use of artificial intelligence (AI) in creativity has the potential to revolutionize the way we approach problem-solving and innovation. In this chapter, we will explore case studies on the use of AI in creativity across various domains, including art, music, literature, and advertising.
 

@@ -1,5 +1,3 @@
-Overview of AI-Augmented Creativity Techniques and Strategies
-================================================================================================================
 
 The use of artificial intelligence (AI) in creativity offers new techniques and strategies to enhance and augment traditional approaches, unlocking innovative potential and revolutionizing the way we approach problem-solving and innovation. In this chapter, we will provide an overview of various AI-augmented creativity techniques and strategies that we have explored in this book.
 

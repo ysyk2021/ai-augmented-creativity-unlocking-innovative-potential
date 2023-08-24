@@ -1,5 +1,3 @@
-Creative Idea Generation and Exploration
-===========================================================================================
 
 One of the most critical aspects of creativity is generating and exploring new ideas. The use of artificial intelligence (AI) in creative idea generation and exploration offers new techniques and strategies to enhance and augment traditional approaches. In this chapter, we will explore two AI-augmented creativity techniques that can drive innovation and problem-solving.
 

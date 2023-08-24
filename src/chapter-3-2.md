@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Creativity
-=====================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize creativity by providing new techniques and strategies to enhance and augment traditional approaches. However, like any technology, there are both advantages and limitations to its use in creativity. In this chapter, we will explore the advantages and limitations of AI in creativity.
 

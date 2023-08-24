@@ -1,5 +1,3 @@
-Social Media and User Behavior Tracking
-====================================================================================
 
 The use of artificial intelligence (AI) in creativity relies heavily on the collection and analysis of data. Data collection and analysis play a crucial role in training AI-based tools and algorithms to identify patterns and generate insights that can be used to drive creative problem-solving and innovation.
 

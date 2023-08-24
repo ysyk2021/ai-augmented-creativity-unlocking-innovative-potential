@@ -1,5 +1,3 @@
-Future Directions and Challenges
-========================================================
 
 The use of artificial intelligence (AI) in creativity has the potential to revolutionize the way we approach creative problem-solving and innovation. However, as with any technology, there are ethical considerations that must be taken into account to ensure that AI is used in a responsible and ethical manner.
 

@@ -1,5 +1,3 @@
-Creative Collaboration and Crowdsourcing
-===========================================================================================
 
 The use of artificial intelligence (AI) in creativity offers new techniques and strategies to enhance and augment traditional approaches. In this chapter, we will explore creative collaboration and crowdsourcing, two AI-augmented creativity techniques that can drive innovation and problem-solving.
 

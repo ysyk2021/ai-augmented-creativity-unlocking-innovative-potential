@@ -1,5 +1,3 @@
-Ethical Considerations
-======================
 
 The use of artificial intelligence (AI) in creativity raises various ethical issues related to bias, privacy, and accountability. As AI becomes increasingly integrated into creative decision-making processes, it is important to consider these ethical issues and develop best practices for ensuring ethical and responsible AI. In this chapter, we will explore the ethical considerations associated with the use of AI in creativity, best practices for ensuring ethical and responsible AI, and future directions and challenges.
 
@@ -46,5 +44,4 @@ Conclusion
 ----------
 
 In conclusion, the use of artificial intelligence (AI) in creativity raises various ethical considerations related to bias, privacy, and accountability. Ensuring diversity and representation, transparency, privacy and data protection, and human oversight can help mitigate these issues and promote ethical and responsible AI. As AI continues to evolve and become more integrated into creative decision-making processes, it is important to continue to consider and address ethical issues as they arise.
-
 

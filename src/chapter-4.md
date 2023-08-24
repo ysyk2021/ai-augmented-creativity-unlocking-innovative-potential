@@ -1,5 +1,3 @@
-Data Collection and Analysis for Creativity
-===========================================
 
 Data collection and analysis have become increasingly important in the creative process, allowing companies to gather insights and make data-driven decisions. Artificial intelligence (AI) has played a critical role in this process by providing tools and algorithms that can analyze large datasets and provide insights into user behavior and preferences. In this chapter, we will explore various techniques and strategies involved in data collection and analysis for creativity.
 
