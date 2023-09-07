@@ -10,3 +10,7 @@ As AI continues to evolve and become more integrated into creative decision-maki
 By exploring the potential of AI to augment creativity, we can unlock new possibilities for innovation and collaboration while also promoting responsible and ethical use of these technologies. This book aims to provide a comprehensive overview of AI-augmented creativity and its implications for the future of creative problem-solving and innovation.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
